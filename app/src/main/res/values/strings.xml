@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">GB-4-3</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="navigate_to_markers_list">Navigate to markers list</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="save_marker">Save marker</string>
 </resources>
